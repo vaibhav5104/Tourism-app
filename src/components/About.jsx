@@ -25,13 +25,13 @@ const About = () => {
                         <input type="radio" name="slider" id="item-3" />
                         <div className="cards">
                             <label className="cardt" htmlFor="item-1" id="col-img-1">
-                                <img src={img1} />
+                                <img src={img1} alt="" />
                             </label>
                             <label className="cardt" htmlFor="item-2" id="col-img-2">
-                                <img src={img2} />
+                                <img src={img2} alt=""/>
                             </label>
                             <label className="cardt" htmlFor="item-3" id="col-img-3">
-                                <img src={img3} />
+                                <img src={img3} alt=""/>
                             </label>
                             
                         </div>
@@ -51,6 +51,7 @@ const About = () => {
                                 <img
                                     className="img2"
                                     src="./img/mountain_dark.jpg"
+                                    alt=""
                                     width="200"
                                     style={{ borderRadius: '12%' }}
                                 />

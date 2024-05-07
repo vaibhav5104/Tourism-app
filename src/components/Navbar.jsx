@@ -1,7 +1,7 @@
 import React from "react";
 import '../style.css';
 import '../responsive.css';
-import { BrowserRouter as Router, Routes, Route, Link, useLocation } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link} from 'react-router-dom';
 import City from './City';
 import Home from './Home';
 import Contributions from "./Contributions";
@@ -27,7 +27,7 @@ const Nav = () => {
     );
 }
 const Navbar = () => {
-    const location = useLocation();
+    // const location = useLocation();
 
     return (
         <nav className="navbar glass" style={{ height: '70px' }}>
