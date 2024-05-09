@@ -48,7 +48,7 @@ const Navbar = () => {
                 </li>
                 <li>
                     {/* <a href="/explore.html" id="tri" className="cir_border">Explore</a> */}
-                    <Link to="/about" id="sext" className="cir_border">Explore</Link>
+                    <Link to="/explore" id="sext" className="cir_border">Explore</Link>
 
 
                 </li>
@@ -61,7 +61,7 @@ const Navbar = () => {
                 <li>
                     {/* <a href="#about" id="sext" className="cir_border">About</a> */}
                     {/* <Link to="/about" id="sext" className="cir_border">About</Link> */}
-                    <Link to="/explore" id="tri" className="cir_border">About</Link>
+                    <Link to="/about" id="tri" className="cir_border">About</Link>
 
 
                 </li>
