@@ -8,7 +8,7 @@ const Event = () => {
 
     return(
         <>
-        <section className="events" id="events">
+        <section className="actives events" id="events">
             <div className="container">
                 <div className="title">
                     <h1 className="dark">Upcoming Events</h1>
@@ -22,7 +22,7 @@ const Event = () => {
                             Everest base camp trek is without a doubt, one of
                             the most renowned travel destinations in the world.
                         </p>
-                        <a href="https://www.google.com/search?q=events&oq=events&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORixAxjJAxiABDINCAEQABiSAxiABBiKBTIHCAIQABiABDIHCAMQABiABDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEINDkwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=zephyr:0&vssid=atritem-https://in.bookmyshow.com/explore/events-jalandhar" className="ctn">All Details</a>
+                        <a href="https://www.google.com/search?q=events&oq=events&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORixAxjJAxiABDINCAEQABiSAxiABBiKBTIHCAIQABiABDIHCAMQABiABDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEINDkwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=zephyr:0&vssid=atritem-https://in.bookmyshow.com/explore/events-jalandhar" target="_blank" rel="noreferrer" className="ctn">All Details</a>
                     </article>
                     <article className="card col">
                         <img src={img2} alt=""/>
@@ -32,7 +32,7 @@ const Event = () => {
                             trek, or a luxury private guided walk which can be
                             made especially for you.
                         </p>
-                        <a href="https://www.google.com/search?q=events&oq=events&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORixAxjJAxiABDINCAEQABiSAxiABBiKBTIHCAIQABiABDIHCAMQABiABDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEINDkwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=zephyr:0&vssid=atritem-https://in.bookmyshow.com/explore/events-jalandhar" className="ctn">All Details</a>
+                        <a href="https://www.google.com/search?q=events&oq=events&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORixAxjJAxiABDINCAEQABiSAxiABBiKBTIHCAIQABiABDIHCAMQABiABDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEINDkwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=zephyr:0&vssid=atritem-https://in.bookmyshow.com/explore/events-jalandhar" target="_blank" rel="noreferrer" className="ctn">All Details</a>
                     </article>
                     <article className="card col">
                         <img src={img2} alt=""/>
@@ -42,7 +42,7 @@ const Event = () => {
                             belt surroundings is one of the richest coral reef
                             ecosystems in the world.
                         </p>
-                        <a href="https://www.google.com/search?q=events&oq=events&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORixAxjJAxiABDINCAEQABiSAxiABBiKBTIHCAIQABiABDIHCAMQABiABDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEINDkwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=zephyr:0&vssid=atritem-https://in.bookmyshow.com/explore/events-jalandhar" className="ctn">All Details</a>
+                        <a href="https://www.google.com/search?q=events&oq=events&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORixAxjJAxiABDINCAEQABiSAxiABBiKBTIHCAIQABiABDIHCAMQABiABDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEINDkwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=zephyr:0&vssid=atritem-https://in.bookmyshow.com/explore/events-jalandhar" target="_blank" rel="noreferrer" className="ctn">All Details</a>
                     </article>
                 </div>
             </div>

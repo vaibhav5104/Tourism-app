@@ -769,6 +769,12 @@ img:hover {
   color: #fc036b;
   cursor: pointer;
 }
+.actives {
+  border: 2px solid rgb(148, 136, 136);
+  border-radius: 20px;
+  color: #fc036b;
+  /* cursor: pointer; */
+}
 
 .ctn:hover {
   background: whitesmoke;
